@@ -1,8 +1,6 @@
-# Hamburger Menu Project
+# HTML Sandbox
 
-This project is a small, focused demonstration of building a responsive "hamburger" menu, a common UI element for mobile navigation.
+This is a practice folder focused on experimenting with HTML structure. The files here contain various HTML tags, forms, tables, and semantic elements for testing purposes. Styling is minimal, as the primary goal is to understand HTML's role in providing content and structure.
 
-## Key Files
-- **`index.html`**: Contains the HTML for the menu icon and the navigation links.
-- **`styles.css`**: Styles the menu icon and handles the animations for showing/hiding the navigation.
-- **`script.js`**: Manages the click event to toggle the menu's open/closed state.
+## How to View
+Open any of the `*.html` files directly in your browser to see the output of the HTML code.
