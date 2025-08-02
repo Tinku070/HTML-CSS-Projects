@@ -1,9 +1,10 @@
-# CSS Grid Sandbox
+# CSSSANDBOX2  Projects
 
-This is a practice project dedicated to experimenting with and learning CSS Grid Layout. It serves as a sandbox to test various grid properties, column and row definitions, and item placement.
+This repository contains two general-purpose "sandbox" projects for practicing various CSS skills.
 
-## Project Files
-- **`index.html`**: Contains the basic HTML structure with grid containers and items.
-- **`styles.css`**: Defines the CSS Grid properties and styles for the layout.
+## Projects
+- **`CSSsandbox`**: A collection of small, independent files for testing CSS properties, selectors, and styling techniques.
+- **`CSSSANDBOX2`**: A second set of experiments, separate from the first sandbox.
 
-Feel free to modify the files to explore different grid configurations.
+## How to View
+Each file is a separate experiment. Simply open any of the `*.html` files in your browser to see the corresponding styles.
